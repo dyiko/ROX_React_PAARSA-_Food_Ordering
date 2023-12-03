@@ -15,7 +15,7 @@ A project created using JAVASCRIPT REACT FRAMEWORK
 
 - TO RUN MAP API 
 8. -->FOR MAP TO LOAD ADD UR OWN API KEY IN map.js IN THIS FOLDER `./src/map/map.js`
-9. -->THEN GO TO index.html and add script tag at the end -->`<script type="module" src="">./src/map/map.js</script> `
+9. -->THEN GO TO `index.html` and add script tag at the end -->`<script type="module" src="">./src/map/map.js</script> `
 10. -->AFTER THAT REFRESH THE PAGE AND THEN THE  STORE LOCATION WILL BE AVAILABLE AT MARKER
 
 - IF API DONT WORK THEN THE API IS INVALID FOR THAT CASE THIS IS THE STATIC MAP LINK I USED
