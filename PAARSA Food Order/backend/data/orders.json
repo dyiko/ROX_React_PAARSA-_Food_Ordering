@@ -1,0 +1,38 @@
+[
+  {
+    "items": [
+      {
+        "id": "m112",
+        "name": "Mac & Cheese",
+        "price": "179",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "199",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "119",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "bob deol",
+      "email": "bobbydeol123@email.com",
+      "street": "231, Pavel ,Navi Mumbai  ",
+      "postal-code": "705012",
+      "city": "Mumbai"
+    },
+    "id": "448.2776617880397"
+  }
+]
